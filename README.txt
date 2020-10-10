@@ -1,6 +1,6 @@
-Πετρίδου Άννα 1115201600135
-
-Εργασία 2
+check h2-spring-2020.pdf for project description/requirements
+unzip input_dir.zip to use as your input directory
+input directory using my own bash script create_files.sh
 
 Για τη μεταγλώττιση και την εκτέλεση χρησιμοποιώ το Makefile που έχω φτιάξει, οπότε αρκεί για τη μεταγλώττιση η εντολή:
  
